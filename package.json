@@ -1,8 +1,8 @@
 {
     "description": "NativeScript Application",
-    "license": "SEE LICENSE IN <your-license-filename>",
+    "license": "",
     "readme": "NativeScript Application",
-    "repository": "<fill-your-repository-here>",
+    "repository": "https://github.com/cybaj/ns_audio_circleci",
     "nativescript": {
         "id": "org.nativescript.playjs",
         "tns-android": {
